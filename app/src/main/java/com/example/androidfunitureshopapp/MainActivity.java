@@ -11,6 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         String name,the,girl,you,like;
-
+//        uk bạn ngủ chưa
     }
 }
